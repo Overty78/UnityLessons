@@ -630,6 +630,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   speed: 15
+  xBounds: 15
 --- !u!1 &1590138454
 GameObject:
   m_ObjectHideFlags: 0
